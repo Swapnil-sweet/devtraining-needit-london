@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_action_view">
+    <sys_ui_action_view action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_ui_action_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-05 10:11:00</sys_created_on>
+        <sys_id>8e8d16b8db40330095ff178039961934</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test.Incident_overview</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_ui_action display_value="Test">b8651674db40330095ff178039961924</sys_ui_action>
+        <sys_ui_view display_value="Incident_overview" name="incident_overview">944093225f011000b12e3572f2b47725</sys_ui_view>
+        <sys_update_name>sys_ui_action_view_8e8d16b8db40330095ff178039961934</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-05 10:11:00</sys_updated_on>
+        <visibility>include</visibility>
+    </sys_ui_action_view>
+</record_update>
